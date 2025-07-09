@@ -1,2 +1,2 @@
-# oasis-p4
-temp converter
+# Temperature converter 
+convert temperature in different temp units
